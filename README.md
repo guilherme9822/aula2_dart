@@ -1,2 +1,2 @@
-# aula2_dart
-Esse é a continuação das aulas segunda parte.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
